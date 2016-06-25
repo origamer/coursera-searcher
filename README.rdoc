@@ -1,3 +1,5 @@
 Simple Rails app for searching courses on Coursera.org.
-
 There is used HTTParty, Coursera.org API.
+
+For custom searching add ?looking_for=keyword, like this:
+https://my-coursera-searcher.herokuapp.com/?looking_for=java
